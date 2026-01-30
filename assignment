@@ -1,1 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+</head>
+
+<body>
+    <header>
+        <h1>Death Monk</h1>
+        <p>Full Stack Developer | Web Designer | Tech Enthusiast</p>
+        <hr />
+    </header>
+
+    <main>
+        <section>
+            <h2>About Me</h2>
+            <p>I am a highly professional engineer with 1+ years of experience in building web applications. I have been an
+                integral part of building end-to-end systems and I specialize in backend technologies.</p>
+            <hr />
+        </section>
+
+        <section>
+            <h2>Skills</h2>
+            <ul>
+                <li>HTML5 and CSS3</li>
+                <li>JavaScript</li>
+                <li>React and Vue.js</li>
+                <li>Node.js & Express</li>
+                <li>Mongo and SQl</li>
+                <li>Git & Github</li>
+            </ul>
+            <hr />
+        </section>
+
+        <section>
+            <h2>Experience</h2>
+            <table border="1">
+                <thead>
+                    <tr>
+                        <th>Position</th>
+                        <th>Company</th>
+                        <th>Duration</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Principal Engineer</td>
+                        <td>Swarm Solutions</td>
+                        <td>2021-Present</td>
+                    </tr>
+                    <tr>
+                        <td>Junior Developer</td>
+                        <td>DataCentric</td>
+                        <td>2020-2025</td>
+                    </tr>
+                    <tr>
+                        <td>Backend Engineer</td>
+                        <td>Ola Krutrim</td>
+                        <td>2023-2024</td>
+                    </tr>
+                </tbody>
+            </table>
+            <hr />
+        </section>
+
+        <section>
+            <h2>Projects</h2>
+            <p><strong>E-Commerce Platform</strong></p>
+            <p>Built a fully functional e-commerce platform with product listing, cart management, and payment integration.</p>
+            <ul>
+                <li>Technologies: React, Node.js, MongoDB</li>
+                <li>Timeline: 6 months</li>
+            </ul>
+
+            <p><strong>Blog Platform - Zarch</strong></p>
+            <p>Developed a blogging platform with user authentication and content management features</p>
+            <ul>
+                <li>Technologies: HTML, CSS, Javascript</li>
+                <li>Timeline: 5 months</li>
+            </ul>
+            <hr />
+        </section>
+
+        <section>
+            <h2>Education</h2>
+            <table border="1">
+                <thead>
+                    <tr>
+                        <th>Degree</th>
+                        <th>Institution</th>
+                        <th>Year</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Bachelor in Computer Science</td>
+                        <td>IIT Dholakpur</td>
+                        <td>2021</td>
+                    </tr>
+                    <tr>
+                        <td>Master in Advance Computing</td>
+                        <td>OP Cat</td>
+                        <td>0000</td>
+                    </tr>
+                </tbody>
+            </table>
+            <hr />
+        </section>
+
+        <section>
+            <h2>Contact</h2>
+            <p><strong>Email:</strong>deathmonk@gmail.com</p>
+            <p><strong>Phone:</strong>908070605012</p>
+            <p><strong>Location:</strong>Astapore, GOT</p>
+            <hr />
+        </section>
+    </main>
+
+    <footer>
+        <p>&#169 2026 DeathMonk. All rights reserved.</p>
+    </footer>
+
+</body>
+
+</html>
